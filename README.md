@@ -55,12 +55,6 @@ My name is **Ahmed Gamal**, a software engineer from **Egypt**, on a journey to 
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AhmedGamalFarouk&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
----
 
 ### ✍️ Random Dev Quote
 <p align="center">
@@ -69,7 +63,7 @@ My name is **Ahmed Gamal**, a software engineer from **Egypt**, on a journey to 
 
 ---
 
-## 🌐 Socials
+## 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-gamal-farouk)
 
 ---

@@ -5,16 +5,6 @@
 
 ---
 
-## 🌗 Theme-Aware Banner (Dark/Light)
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AhmedGamalFarouk&show_icons=true&theme=merko" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AhmedGamalFarouk&show_icons=true&theme=default" />
-    <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=AhmedGamalFarouk&show_icons=true" />
-  </picture>
-</p>
-
----
 
 # 👋 Hey! What's up?
 

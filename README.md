@@ -44,24 +44,6 @@ My name is **Ahmed Gamal**, a software engineer from **Egypt**, on a journey to 
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AhmedGamalFarouk&theme=merko&hide_border=false&include_all_commits=false&count_private=false" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AhmedGamalFarouk&theme=default&hide_border=false&include_all_commits=false&count_private=false" />
-    <img src="https://github-readme-stats.vercel.app/api?username=AhmedGamalFarouk" />
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AhmedGamalFarouk&theme=merko&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedGamalFarouk&theme=merko&hide_border=false&layout=compact" />
-</p>
-
----
 
 ### ✍️ Random Dev Quote
 <p align="center">

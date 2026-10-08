@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <a href="https://ahmedgamalfarouk.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ahmedgamalfarouk.vercel.app-000000?logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:ahmedgamalfarouk0@gmail.com"><img src="https://img.shields.io/badge/Email-ahmedgamalfarouk0%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/ahmed-gamal-farouk"><img src="https://img.shields.io/badge/LinkedIn-ahmed--gamal--farouk-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://mostaql.com/u/ahmedgamalfarok"><img src="https://img.shields.io/badge/Mostaql-Hire%20me-2386C8" alt="Mostaql"/></a>
@@ -57,4 +58,4 @@ I build production web and mobile front ends: Angular ERP modules at work, plus 
 
 ## 📫 Work with me
 
-I'm available for **full-time remote or Cairo-based front-end roles** and **freelance web or mobile projects**. The fastest way to reach me is [email](mailto:ahmedgamalfarouk0@gmail.com) or a message on [LinkedIn](https://www.linkedin.com/in/ahmed-gamal-farouk). I speak Arabic and English.
+I'm available for **full-time remote or Cairo-based front-end roles** and **freelance web or mobile projects**. You can see more of my work on [my portfolio](https://ahmedgamalfarouk.vercel.app/). The fastest way to reach me is [email](mailto:ahmedgamalfarouk0@gmail.com) or a message on [LinkedIn](https://www.linkedin.com/in/ahmed-gamal-farouk). I speak Arabic and English.

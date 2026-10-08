@@ -18,8 +18,9 @@
 I build complete products: the web or mobile client, the database and serverless back end behind it, and the tests and CI that keep it working. At work I build Angular ERP modules; on my own I ship PostgreSQL schemas with row-level security, edge and cloud functions, scheduled jobs, payments and push pipelines, with clients in React, Next.js, Angular and Flutter.
 
 - 💼 **Front-End Developer at DoMS** (2026 to now): Angular and TypeScript ERP modules, reusable component libraries, REST API integration.
-- 🎓 **ITI Intensive Code Camp**, Front-End & Cross-Platform Mobile track (2025). B.Sc. Computer Science, Future Academy (2023).
+- 🎓 **ITI Intensive Code Camp**, Front-End & Cross-Platform Mobile track (2025).
 - 📄 Co-author of *A Systematic Literature Review of Optimization Algorithms for the University Course Timetabling Problem* (Springer, 2024).
+- 👨‍🎓 *B.Sc. Computer Science*, Future Academy (2023).
 
 ## 🚀 Featured work
 
